@@ -12,7 +12,7 @@ Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum eligendi libero 
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut vitae iusto consectetur nostrum quas quis excepturi corporis. Iste, cupiditate a perspiciatis molestias provident blanditiis accusantium ex tempore eum officiis doloremque omnis, voluptates, minus esse debitis. [Error earum explicabo sunt eum.](/blog/topic-2)
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut vitae iusto consectetur nostrum quas quis excepturi corporis. Iste, cupiditate a perspiciatis molestias provident blanditiis accusantium ex tempore eum officiis doloremque omnis, voluptates, minus esse debitis. [Error earum explicabo sunt eum.](/blog/eligendi)
 
 ![cars-on-park](https://images.pexels.com/photos/2136360/pexels-photo-2136360.jpeg?w=640)
 
