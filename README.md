@@ -2,7 +2,7 @@ Edit your about page in `./content/about.md`
 
 Add, edit and remove your contents in `./content/blog` to generate the site pages.
 
-## Dev tools
+### Dev tools
 
 [Tailwind CSS](https://tailwindcss.com/)
 
@@ -24,6 +24,4 @@ Add, edit and remove your contents in `./content/blog` to generate the site page
 
 [Photo by Mark Plötz from Pexels](https://www.pexels.com/photo/train-in-railway-2790396/)
 
----
 
-[Made by zummon](https://zummon.page/)
