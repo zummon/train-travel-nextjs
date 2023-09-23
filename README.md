@@ -1,4 +1,4 @@
-### Take a look at [the website](https://in25o2-3000.csb.app/)
+
 
 - Edit your about page in `./content/about.md`
 - Add, edit and remove your contents in `./content/blog` to generate the site pages.
