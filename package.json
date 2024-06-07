@@ -7,10 +7,10 @@
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
-    "next": "^15.0.0-rc.0",
+    "next": "^14.2.3",
     "next-mdx-remote": "^5.0.0",
-    "react": "^19.0.0-rc-6f23540c7d-20240528",
-    "react-dom": "^19.0.0-rc-6f23540c7d-20240528"
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.9",
